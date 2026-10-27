@@ -6,10 +6,15 @@
   <p>纯 Kotlin 原生实现（非 WebView 包装）· 独创 ReadingAnchor 定位算法 · 5 款艺术沉浸书架</p>
 
   <p>
+    <a href="https://github.com/Feist-totoo/FindReader/releases/latest"><img src="https://img.shields.io/github/v/release/Feist-totoo/FindReader?color=blue&label=Latest%20Release" alt="Latest Release" /></a>
     <img src="https://img.shields.io/badge/Platform-Android_7.0+_(API_24+)-brightgreen.svg" alt="Platform" />
     <img src="https://img.shields.io/badge/Kotlin-1.9+-blue.svg" alt="Kotlin" />
     <img src="https://img.shields.io/badge/Target_SDK-34-orange.svg" alt="Target SDK" />
     <img src="https://img.shields.io/badge/Privacy-100%25_Offline-success.svg" alt="Privacy" />
+  </p>
+
+  <p>
+    👉 <a href="https://github.com/Feist-totoo/FindReader/releases/download/v1.0.0/FindReader-v1.0.0.apk"><strong>[ 点击直接下载最新 APK 安装包 (FindReader-v1.0.0.apk) ]</strong></a> 👈
   </p>
 </div>
 
